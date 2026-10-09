@@ -7,12 +7,16 @@ Hi, I'm Hassnain, a BSCS student. This repository contains my coursework and pra
 | Folder | Description | Status |
 |--------|-------------|--------|
 | [assignment-1](./assignment-1) | Short description | Done |
-| [lab-tasks](./lab-tasks) | Weekly lab work | Ongoing |
+| [lab-tasks](./lab-tasks) | Python lab work (Weeks 1-4) | Ongoing |
 | [project](./project) | Final semester project | On the way |
 
+## 📚 What's Inside
+
+| Folder | Description | Status |
+|--------|-------------|--------|
+| [lab-tasks](./lab-tasks) | Python lab work (Weeks 1-4) | Ongoing |
+
 ## 🛠️ Tech Stack
-- Language: Python
-- Tools: Git, VS Code
 
 ## ▶️ How to Run
 1. Clone the repo: `git clone https://github.com/Hassnain-Rehman/5th-semester-Adv-Programming.git`
