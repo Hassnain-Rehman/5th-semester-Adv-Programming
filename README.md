@@ -1,5 +1,30 @@
-# 5th-semester-Adv-Programming 
+# 5th-semester-Adv-Programming
 
-Hi,
+Hi, I'm Hassnain, a BSCS student. This repository contains my coursework and practice projects for **Advanced Programming** (5th semester).
 
-This is my repository for my 5th-semester **Advanced Programming** course, part of my Bachelor's degree in Computer Science.
+## 📚 What's Inside
+
+| Folder | Description | Status |
+|--------|-------------|--------|
+| [assignment-1](./assignment-1) | Short description | Done |
+| [lab-tasks](./lab-tasks) | Weekly lab work | Ongoing |
+| [project](./project) | Final semester project | On the way |
+
+## 🛠️ Tech Stack
+- Language: Python
+- Tools: Git, VS Code
+
+## ▶️ How to Run
+1. Clone the repo: `git clone https://github.com/Hassnain-Rehman/5th-semester-Adv-Programming.git`
+2. Open the folder of the project you want
+3. Follow the instructions in that folder
+
+## 🎯 Goals
+Strengthen my OOP, data structures, and problem-solving skills.
+
+## 🔄 Updates
+- Updated regularly as the semester goes on.
+
+## 📬 Contact
+- LinkedIn: [Hassnain Rehman](https://www.linkedin.com/in/hassnain-rehman)
+- 
