@@ -1,6 +1,6 @@
 # 5th-semester-Adv-Programming
 
-Hi, I'm Hassnain, a BSCS student. This repository contains my coursework and practice projects for **Advanced Programming** (5th semester).
+Hi, I'm Hassnain Rehman, a BSCS student. This repository contains my coursework and practice projects for **Advanced Programming** (5th semester).
 
 ## 📚 What's Inside
 
