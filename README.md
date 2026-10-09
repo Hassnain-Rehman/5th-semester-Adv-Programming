@@ -6,15 +6,9 @@ Hi, I'm Hassnain, a BSCS student. This repository contains my coursework and pra
 
 | Folder | Description | Status |
 |--------|-------------|--------|
-| [assignment-1](./assignment-1) | Short description | Done |
 | [lab-tasks](./lab-tasks) | Python lab work (Weeks 1-4) | Ongoing |
-| [project](./project) | Final semester project | On the way |
+| project | Final project | Planned | Ongoing |
 
-## 📚 What's Inside
-
-| Folder | Description | Status |
-|--------|-------------|--------|
-| [lab-tasks](./lab-tasks) | Python lab work (Weeks 1-4) | Ongoing |
 
 ## 🛠️ Tech Stack
 
