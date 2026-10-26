@@ -1,0 +1,5 @@
+print("Name:\tAli")
+print("Course:\tPython")
+print("Line 1\nLine 2")
+print("She said \"Hello\"")
+print("C:\\Python_Labs")
